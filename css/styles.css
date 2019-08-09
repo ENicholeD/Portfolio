@@ -1,8 +1,9 @@
 .jumbotron{
   text-align: center;
-  font-size: 200px;
+  background-color: skyblue;
 }
-.jumbotron img {
+
+.picture img {
   width: 500px;
   border-radius: 100%;
   display: block;
