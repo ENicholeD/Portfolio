@@ -1,6 +1,11 @@
+body{
+  background-image: url("../img/beach.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
 .jumbotron{
   text-align: center;
-  background-color: skyblue;
+  background-color: transparent;
 }
 
 .picture img {
