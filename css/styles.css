@@ -2,21 +2,31 @@ body{
   background-image: url("../img/beach.jpg");
   background-size: cover;
   background-attachment: fixed;
+  color: #053825;
 }
 .jumbotron{
   text-align: center;
   background-color: transparent;
 }
 
-.picture img {
-  width: 500px;
+#squid {
+  float: left;
+}
+#squid2 {
+  float: right;
+}
+.emphasize {
+  color: #ff38cf;
+}
+#myself {
+  width: 400px;
   border-radius: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-.emphasize {
-  color: #ff38cf;
+.panel, .well {
+  background-color: rgba(21, 224, 146, 0.32);
 }
 h2, h4 {
   text-align: center;
@@ -28,8 +38,13 @@ h2, h4 {
   margin-bottom: 20px;
 }
 .col-md-10 {
-  margin: auto;
+
+}
+.col-md-10 a {
+  margin-left: 80px;
+  margin-right: 40px;
 }
 .col-md-10 img{
   width: 300px;
+  margin-bottom: 20px;
 }
