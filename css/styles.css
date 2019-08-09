@@ -3,9 +3,11 @@ body{
   background-size: cover;
   background-attachment: fixed;
   color: #053825;
+  font-family: sans-serif;
 }
 .jumbotron{
   text-align: center;
+  font-family: Impact;
   background-color: transparent;
 }
 
@@ -21,6 +23,7 @@ body{
 #myself {
   width: 400px;
   border-radius: 100%;
+  border: double #fced64 15px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -28,8 +31,13 @@ body{
 .panel, .well {
   background-color: rgba(21, 224, 146, 0.32);
 }
-h2, h4 {
+h2 {
   text-align: center;
+  font-family: Impact;
+}
+h4 {
+  text-align: center;
+  font-family: sans-serif;
 }
 .photographs img {
   width: 500px;
@@ -44,4 +52,9 @@ h2, h4 {
 .watchables img{
   width: 200px;
   margin-bottom: 20px;
+}
+.conections img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
