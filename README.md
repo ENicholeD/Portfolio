@@ -11,8 +11,9 @@ This is my Portfolio that I created during my first week at Epicodus. This webpa
 
 ## Setup Instructions
 
-* type in magpiemortician.github.io/Portfolio into your browser
-* read the contents of the page, and click the links provided
+* type in https://magpiemortician.github.io/Portfolio/ into your browser
+* read the contents of the page
+* click the links provided
 * close the webpage
 
 ## Known Bugs
